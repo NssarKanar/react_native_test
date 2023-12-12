@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.react_native_test.app-mergeDebugResources-95:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/kanarahmad/.gradle/caches/transforms-3/b3627ca143232ec2ceb6e319eb18971d/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "119",
+                        "endLines": "7",
+                        "endColumns": "13",
+                        "endOffsets": "391"
+                    }
+                },
+                {
+                    "source": "/Users/kanarahmad/.gradle/caches/transforms-3/9721e2b09c15bcd3a0593a6972c193cf/transformed/jetified-payments-core-20.34.4/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}
